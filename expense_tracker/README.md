@@ -1,5 +1,5 @@
 # Expense Tracker System
-A simple but powerful expense tracking system implemented in Python, designed as part of a semester project to demonstrate object-oriented programming concepts.
+A simple but powerful expense tracking system implemented in Python, designed as part of the semester project to demonstrate object-oriented programming concepts.
 Project Description
 This project implements two main classes:
 
