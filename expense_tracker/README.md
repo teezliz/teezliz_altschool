@@ -62,12 +62,8 @@ get_expenses_by_title(title: str): Get all expenses with matching title
 to_dict(): Convert all expenses to list of dictionaries
 
 Project Structure
-Copy
-`expense-tracker/
-│
-├── expense_tracker.py   # Main implementation file
-└── README.md           # Project documentation
-`
+`expense-tracker/main.py   # Main implementation file`
+`expense-tracker/README.md # Project documentation`
 
 Author
 [Elizabeth Ogundipe]
