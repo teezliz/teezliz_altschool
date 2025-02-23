@@ -23,7 +23,7 @@ Installation
 
 Clone this repository
 
-bashCopygit clone https://github.com/teezliz/expense_tracker.git
+git clone [https://github.com/teezliz/teezliz_altschool/expense_tracker.git](https://github.com/teezliz/teezliz_altschool/tree/main/expense_tracker)
 
 Navigate to project directory
 
@@ -62,11 +62,12 @@ get_expenses_by_title(title: str): Get all expenses with matching title
 to_dict(): Convert all expenses to list of dictionaries
 
 Project Structure
-Copyexpense-tracker/
+Copy
+`expense-tracker/
 │
 ├── expense_tracker.py   # Main implementation file
 └── README.md           # Project documentation
+`
+
 Author
-[Your Name]
-License
-This project is licensed under the MIT License - see the LICENSE file for details
+[Elizabeth Ogundipe]
